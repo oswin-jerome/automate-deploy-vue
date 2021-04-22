@@ -1,6 +1,10 @@
+/*
+ *   Copyright (c) 2021 
+ *   All rights reserved.
+ */
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <HelloWorld msg="Welcome to the site"/>
 </template>
 
 <script>
