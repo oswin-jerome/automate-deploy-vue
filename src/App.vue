@@ -4,6 +4,7 @@
  */
 <template>
   <h1> IDEAUX </h1>
+  <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Temporibus ratione iure odio qui consequatur repellat?</p>
 </template>
 
 <script>
